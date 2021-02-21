@@ -1,0 +1,20 @@
+h3 {
+    text-align: center;
+    color: cyan;
+    }
+    body{
+        background-image: url("bg.webp");
+    }
+    
+    .header{
+      padding: 50px;
+      background-color: rgba(35, 43, 42, 0.596)
+    }
+    /* .header{
+      background-image: url("cover bg.jpg");
+    } */
+    .grid{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
